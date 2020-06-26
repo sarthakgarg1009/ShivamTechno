@@ -1,0 +1,137 @@
+#title{
+  background-color: #d291bc;
+}
+.navbar{
+  padding: 20px;
+}
+.navbar-brand{
+  font-weight: bold;
+}
+#title-cap{
+  padding: 6rem;
+  margin-right: 0;
+}
+#img-title{
+  width: 65%;
+  padding-top: 8%;
+}
+#about{
+  background-color: #f9f9f9;
+  padding: 55px 20px;
+}
+h1{
+  text-align: center;
+  margin: 5rem;
+  font-family: 'Lobster', cursive;
+  padding-top: 2.5rem;
+}
+
+h2{
+  font-family: 'Anton', sans-serif;
+  font-style: oblique;
+  text-align: center;
+}
+.p{
+  text-align: center;
+  margin-top: 2rem;
+  padding: 0rem 30rem;
+  font-size: 22px;
+}
+#course{
+  background-color: #d291bc;
+  padding:4% 5%;
+}
+img{
+  width: 70%;
+  padding:10% 0%;
+  margin-left: 14%;
+}
+.btn{
+  margin-left: 30rem;
+}
+
+
+#prof-course{
+  background-color:#f9f9f9;
+  padding-top: 20px;
+}
+.row{
+  padding-top: 5%;
+}
+.course-img1{
+  width: 15rem;
+  margin-left: 20%
+}
+
+
+.course-img2{
+  width: 80%;
+  padding: 0%;
+  margin-left: 35%;
+  margin-bottom:100px;
+
+}
+
+#course-img3{
+  width: 80%;
+  padding-left: 20%;
+  padding-right: 0%;
+}
+
+.carousel-item{
+    padding: 5% 20%;
+}
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: black;
+}
+
+#contact{
+  padding:5rem;
+  background-color:#d291bc;
+}
+.form{
+  margin-left:  36%;
+  margin-bottom:  1rem;
+}
+.submit{
+  margin-right: 8rem;
+}
+.btn{
+  margin-left: 46rem;
+}
+.social-style{
+  padding: 2%;
+}
+.download{
+  margin:50%;
+  margin-top: 30%;
+}
+#btn-download{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  margin-left: 40rem;
+  width: 26rem;
+  height: 6rem;
+}
+
+@media(max-width:1028px){
+  .p{
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  #btn-download{
+    margin-left: 300px;
+  }
+  .submit{
+    margin-left: 450px;
+  }
+}
